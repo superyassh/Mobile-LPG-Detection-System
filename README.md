@@ -2,10 +2,12 @@
 
 
 ## Mobile LPG Detection System
-### files
+### Files
 
 ⦿ File Report
+
 ⦿ Arduino Code File
+
 ⦿ App Inventor Code File
 
 ## Contributor 
