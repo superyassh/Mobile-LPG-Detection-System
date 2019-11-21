@@ -18,7 +18,7 @@
 
 ⦿ [Tanmay Rastogi](https://www.linkedin.com/in/tanmay-rastogi-76542514a)
 
-⦿ [Pavitra Bhagat](https://www.linkedin.com/in/superyassh)
+⦿ [Pavitra Bhagat](https://www.linkedin.com/in/pavbyte)
 
 ⦿ [BEEE-CU](https://sites.google.com/view/cu-beee-lab)
 
