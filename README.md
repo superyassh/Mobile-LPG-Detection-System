@@ -10,7 +10,7 @@
 
 ⦿ App Inventor Code File
 
-## Contributor 
+## Contributors  
 
 ⦿ Asst. Prof [Anshul sharma](https://scholar.google.co.in/citations?user=s8UzcdIAAAAJ&hl)
 
